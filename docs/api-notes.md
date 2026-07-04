@@ -168,8 +168,16 @@ Pour mémoire (si re-listé un jour), la lecture du stock Auchan est complexe (S
 `src/monitor/shops.ts` — WooCommerce Store API / Shopify `.js` / JSON-LD, filtre
 prix ≤ 1100€, flag `risky` (titre d'alerte "[A VERIFIER]") pour petits vendeurs :
 - **MegElectro** (WooCommerce, `is_in_stock`) — 700€, EN STOCK le 28/06/2026. SIREN/SIRET OK.
-- **JBS Électroménager** (Shopify, `variants[].available`) — 849,99€, EN STOCK. RCS OK.
 - **Bruneau** (B2B, JSON-LD) — 999€, rupture. **Hemmera** (JSON-LD) — rupture.
+
+## ❌ JBS Électroménager — RETIRÉ (site frauduleux)
+
+`jbs-electromenager.com` retiré du registre le 04/07/2026 : la société JBS
+Électroménager a publié sur sa page Facebook officielle un avertissement
+signalant que ce site n'est pas le leur et qu'il s'agit d'un site frauduleux
+usurpant leur identité. Voir le
+[post Facebook](https://www.facebook.com/JBSH.ELECTRO/posts/pfbid02UajtmrXuCV87FKjaLE2itgdb5LfUEKmNfetTUHBNYoAfmyhsTj8qaEWEGcgW4SCUl).
+Ne pas réintégrer ce domaine.
 
 ## ⚠️ Carrefour — DÉLISTÉ / Weldom — ABSENT
 
