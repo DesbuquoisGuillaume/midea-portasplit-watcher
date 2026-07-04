@@ -24,7 +24,7 @@ Il tourne **gratuitement dans le cloud** (GitHub Actions), **sans PC allumé**.
 | **Boulanger** | tous magasins + livraison | API GraphQL `lastStock` | 🟢 direct |
 | **Optimea** (officiel) | neuf + seconde vie | API Store WooCommerce (503=épuisé) | 🟢 direct |
 | **ManoMano** | offre Optimea | API GraphQL (sans anti-bot) | 🟢 direct |
-| **Boutiques** | MegElectro, JBS, Bruneau, Hemmera | WooCommerce/Shopify/JSON-LD | 🟡 vendeur à vérifier |
+| **Boutiques** | MegElectro, Bruneau, Hemmera | WooCommerce/JSON-LD | 🟡 vendeur à vérifier |
 | **123comparer** | Darty, Fnac, Carrefour, Auchan, Amazon, Cdiscount | comparateur (indirect) | 🟡 agrégé |
 | **Dealabs** | n'importe quel marchand | signal communautaire | 🟡 communautaire |
 
